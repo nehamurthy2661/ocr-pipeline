@@ -9,9 +9,9 @@
 
 ## Team Members 
 
-| Name  |
-|--|
-| Neha N Murthy|
-|Reesha Shenoy|
-|Ritika Kumar|
-|Suraj Kumar P|
+| Name  | USN |
+|--|--|
+| Neha N Murthy| 1MS19CS082 |
+|Reesha Shenoy| 1MS19CS094 |
+|Ritika Kumar| 1MS19CS096 |
+|Suraj Kumar P| 1MS19CS129 |
